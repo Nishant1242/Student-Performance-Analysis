@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+.venv/
+venv/
+student_analysis_env/
+
+# Data
+data/raw/
+outputs/
